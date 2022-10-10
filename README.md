@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MadhaviGupta
-- 👩🏻‍💻 I’m interested in Designing, Web Development and Java Programming.
+- 👩🏻‍💻 I’m interested in Web Development and Java Programming.
 - 🌱 I’m currently learning DSA and Web Development Stuff.
 
 <!---
