@@ -1,6 +1,4 @@
-- 👋 Hi, I’m [Madhavi Gupta](https://www.github.com/MadhaviGupta).
-- 👩🏻‍💻 I’m interested in Web Development and Java Programming.
-- 🌱 I’m currently learning DSA and Web Development Stuff.
+- 👋 Hey there! I'm [Madhavi Gupta](https://www.github.com/MadhaviGupta).
 
 <!---
 MadhaviGupta/MadhaviGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
