@@ -33,7 +33,7 @@
 
 ## My Resume 📄
 
-[Madhavi Gupta](https://drive.google.com/file/d/1-gHwHexGcebtFvpHu1PGyZ7EN99grwLK/view?usp=sharing)
+[Madhavi Gupta](https://flowcv.com/resume/m0uaqsfgun)
 
 ## Connect With Me 🤝
 
